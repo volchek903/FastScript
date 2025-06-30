@@ -77,3 +77,4 @@ cropped_photos/
 ## 📄 Лицензия
 
 MIT License. Используйте свободно.
+# HeadCropeerScript
